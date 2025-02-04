@@ -1,0 +1,30 @@
+h2{
+    color: red;
+    background-color: gray;
+}
+
+p{
+    background-color: rgb(177, 177, 177);
+}
+
+h1{
+    text-align: center;
+}
+
+span{
+    color: blue;
+    text-decoration-line: underline ;
+}
+
+body{
+    background-color: rgb(241, 241, 241);
+}
+
+h3{
+    color: blueviolet;
+    background-color: gray;
+}
+
+.verde{
+    color: green;
+}
